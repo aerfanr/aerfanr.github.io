@@ -1,10 +1,14 @@
 ---
-layout: post
 title: This is supposed to be a blog
 subtitle: The first post of the so called blog
+description: The first post of the so called blog
+date: 2023-03-15
+#lastmod
+draft: false
+keywords: [blog]
 tags: [blog]
-readtime: false
-# last-update:
+#bigimg: [{src: "img2.png"}]
+#series: []
 ---
 
 So I made a blog for the thousandth time and I *intend* to write in it as I *intended* to write in my previous blogs.
