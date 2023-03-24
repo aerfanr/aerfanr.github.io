@@ -1,4 +1,4 @@
-baseurl = "https://aerfanr.github.io/blog/"
+baseurl = "https://aerfanr.github.io/"
 DefaultContentLanguage = "en"
 title = "aerfanr's Blog"
 theme = "beautifulhugo"
